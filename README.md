@@ -1,3 +1,5 @@
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Rupeshg21/Rupeshg21/assets/113461314/34ca93d3-46ce-47d6-aa8a-1b5c0a7f604a)
+
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
